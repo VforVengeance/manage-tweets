@@ -1,5 +1,5 @@
 {
-  "name": "manage-tweet",
+  "name": "manage-tweets",
   "version": "0.0.0",
   "description": "a npm package for manage tweet with json",
   "main": "index.js",
@@ -16,5 +16,13 @@
   "dependencies": {
     "moment": "^2.22.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VforVengeance/manage-tweets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VforVengeance/manage-tweets/issues"
+  },
+  "homepage": "https://github.com/VforVengeance/manage-tweets#readme"
 }
