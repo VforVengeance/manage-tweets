@@ -2,6 +2,10 @@ var moment = require('moment');
 var tweets = [];
 var COUNTER = 0
 
+exports.getTweets = function(){
+    return tweets;
+}
+
 exports.addTweet = function(author, description){
     var tweet = {
         author: author,

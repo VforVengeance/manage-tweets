@@ -1,6 +1,6 @@
 {
   "name": "manage-tweets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a npm package for manage tweet with json",
   "main": "index.js",
   "scripts": {
